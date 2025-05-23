@@ -82,7 +82,7 @@ Only if “Use EUR as primary currency” is enabled. You may also need to updat
 ---
 
 ## Screenshots
-![Plugin](https://github.com/no7r3k/woocommerce-bgn-to-eur/blob/4564f12b131a086223de00f482ae532937b9c294/BGN%20to%20EUR.png)
+![Plugin](https://github.com/no7r3k/woocommerce-bgn-to-eur/blob/6252ab3dcbbefbbaf9016b3b6a6c11fdf36e58d2/BGNtoEUR.png)
 1. Settings page with exchange-rate input  
 2. Display options checkboxes  
 3. Batch conversion tools panel  
