@@ -1,12 +1,8 @@
 # WooCommerce BGN-EUR Price Display
 
 **Author:** no7r3k  
-**Tags:** woocommerce, currency, bgn, eur, conversion, dual-currency  
-**Requires at least:** 5.0  
-**Tested up to:** 6.4  
+**Tags:** woocommerce, currency, bgn, eur, conversion, dual-currency    
 **Requires PHP:** 7.4  
-**WC requires at least:** 5.0  
-**WC tested up to:** 8.5  
 **Stable tag:** 2.0.1  
 **License:** LGPLv3  
 **License URI:** https://www.gnu.org/licenses/lgpl-3.0.html  
