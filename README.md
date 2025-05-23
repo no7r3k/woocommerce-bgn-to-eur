@@ -4,8 +4,8 @@
 **Tags:** woocommerce, currency, bgn, eur, conversion, dual-currency    
 **Requires PHP:** 7.4  
 **Stable tag:** 2.0.1  
-**License:** LGPLv3  
-**License URI:** https://www.gnu.org/licenses/lgpl-3.0.html  
+**License:** GPLv2  
+**License URI:** https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Display prices in BGN alongside EUR with optional permanent conversion.
 
@@ -107,4 +107,4 @@ Only if “Use EUR as primary currency” is enabled. You may also need to updat
 
 ## License
 
-This plugin is licensed under the **GNU Lesser General Public License v3.0**  
+This plugin is licensed under the **GNU GENERAL PUBLIC LICENSE v2.0**  
