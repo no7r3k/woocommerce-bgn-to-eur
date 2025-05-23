@@ -37,7 +37,7 @@ Perfect for Bulgarian retailers who need dual-currency display or full migration
 ## Configuration
 
 ### Exchange Rate  
-Enter your desired BGN - EUR rate (e.g. `1.9559`). The current ECB rate is displayed for convenience.
+Enter your desired BGN - EUR rate (e.g. `1.9558`). The current ECB rate is displayed for convenience.
 
 ### Display Options  
 - ☑ Show on shop & archive pages  
